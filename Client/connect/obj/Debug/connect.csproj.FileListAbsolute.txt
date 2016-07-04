@@ -1,0 +1,8 @@
+E:\otherwork\connect\connect\bin\Debug\connect.exe
+E:\otherwork\connect\connect\bin\Debug\connect.pdb
+E:\otherwork\connect\connect\obj\Debug\connect.csprojResolveAssemblyReference.cache
+E:\otherwork\connect\connect\obj\Debug\connect.Form1.resources
+E:\otherwork\connect\connect\obj\Debug\connect.Properties.Resources.resources
+E:\otherwork\connect\connect\obj\Debug\connect.csproj.GenerateResource.Cache
+E:\otherwork\connect\connect\obj\Debug\connect.exe
+E:\otherwork\connect\connect\obj\Debug\connect.pdb

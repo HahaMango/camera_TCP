@@ -1,0 +1,9 @@
+E:\otherwork\connect\connect\bin\Release\connect.exe
+E:\otherwork\connect\connect\bin\Release\connect.pdb
+E:\otherwork\connect\connect\obj\Release\connect.Form1.resources
+E:\otherwork\connect\connect\obj\Release\connect.Properties.Resources.resources
+E:\otherwork\connect\connect\obj\Release\connect.csproj.GenerateResource.Cache
+E:\otherwork\connect\connect\obj\Release\connect.exe
+E:\otherwork\connect\connect\obj\Release\connect.pdb
+D:\otherwork\connect\connect\obj\Release\connect.exe
+D:\otherwork\connect\connect\obj\Release\connect.pdb
